@@ -42,8 +42,7 @@ Consequently, the LLM agent receives a *vetted* observation, free from elements 
 
 ## Main Results
 
-
-<p align="center">   <img src="Figures/table12.png?raw=true" alt="Main results on MoTIF and WebShop" width="600"/>   </p>
+![Table 12](Figures/table12.png?raw=true "Main results on MoTIF and WebShop")
 
 Table 1 and Table 2 showcase our main results, from which we have three observations.
 
