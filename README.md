@@ -55,7 +55,7 @@ Third, DVM shows particularly marked improvements in more sophisticated sequenti
 
 ## Statistical Analysis of DVM Process
 
-<p align="center">   <img src="Figures/requested_exp.png?raw=true" alt="Statistical Justification of DVM Process" width="600"/>   </p>
+<p align="center">   <img src="Figures/requested_exp.png?raw=true" alt="Statistical Justification of DVM Process" width="500"/>   </p>
 
 
 
