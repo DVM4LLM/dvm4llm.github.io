@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [DVM\:Self-Identifying and Self-Avoiding Instruction Violations of LLM Agents in Sequential Vision Language Planning]
+title: [Self-Identifying and Self-Avoiding Instruction Violations of LLM Agents in Sequential Vision Language Planning]
 description: [DVM significantly enhances the effectiveness of LLM agents for VLN tasks by introducing an automated approach to avoid instruction violations against the design purpose, thereby complementing and extending the existing literature.]
