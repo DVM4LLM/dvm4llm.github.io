@@ -33,7 +33,7 @@ We utilize the robust framework of *primitive concepts* to address the challenge
 
 ## Overview of DVM to improve a given LLM agent
 
-![Figure 3](Figures/fig3.png?raw=true "Figure 3: Overview of DVM")
+![Figure 3](Figures/fig3_new.png?raw=true "Figure 3: Overview of DVM")
 
 
 
