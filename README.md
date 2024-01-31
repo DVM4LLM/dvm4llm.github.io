@@ -5,6 +5,12 @@
 LLM agents have been demonstrated to be powerful in vision-language navigation (VLN) tasks. However, they often encounter challenges with sequential VLN tasks, particularly in adhering to instructions in prompts, which affects their overall efficacy. To unleash the efficacy of LLM agents against instruction violations, this paper proposes DVM, an LLM-based approach to self-identify and self-avoid instruction violations of any given LLM agent. Instead of altering the intrinsic mechanism of LLM agents, DVM operates externally on the input and output sequences of LLM agents. Specifically, DVM uses LLMs to decompose the instructions in the LLM agent's workflow into primitive constraints, creating oracles to detect any violations of these primitive constraints and synthesize avoiding actions to preempt potential violations. This paper also demonstrates the application of DVM to enhance three state-of-the-art LLM agents, assessing  DVM's effectiveness on two challenging VLN tasks: WebShop and MoTIF. Evaluation results show that DVM significantly boosts the performance of LLM agents across various agents and tasks.
 Notably, DVM doubles the success rate of LLM-planner, a state-of-the-art LLM agent dedicated to sequential VLN, from 17.2% to 34.5% on the MoTIF dataset, showcasing its capability to adapt LLM planning more flexibly and effectively in sequential VLN scenarios.
 
+## Demonstration of Original UI Space Navigation
+![Gif 1: Violation example of UI space navigation.](Figures/Before.gif?raw=true "Gif 1: Violation example of UI space navigation.")
+
+## Demonstration of UI Space Navigation with DVM
+![Gif 2: Example of UI space navigation with DVM.](Figures/After.gif?raw=true "Gif 2: Example of UI space navigation with DVM.")
+
 ## Instruction violations in VLN
 
 ![Figure 1: Instruction violations in UI space navigation.](Figures/fig1.png?raw=true "Figure 1: Instruction violations in LLM-based UI space navigation.")
